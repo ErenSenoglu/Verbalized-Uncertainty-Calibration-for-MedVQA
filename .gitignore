@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.npy
+*.egg-info/
+
+# Training outputs
+outputs_*/
+merged_temp_*/
+wandb/
+
+# Downloaded datasets
+OmniMedVQA_data/
+images/
+medxpertqa_images/
+
+# Internal docs
+inventory.md
